@@ -1,3 +1,3 @@
 // Write your solution in this file!
 
-var customerName = 'batman'
+var customerName = 'bob'
